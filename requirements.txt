@@ -1,0 +1,16 @@
+# Classical OCR Pipeline Requirements
+# Note: All dependencies are optional - fallback implementations are available
+
+# Computer Vision
+opencv-python>=4.5.0
+scikit-image>=0.18.0
+
+# Machine Learning  
+scikit-learn>=1.0.0
+numpy>=1.20.0
+
+# Image Processing
+Pillow>=8.0.0
+
+# Optional utilities
+matplotlib>=3.3.0
